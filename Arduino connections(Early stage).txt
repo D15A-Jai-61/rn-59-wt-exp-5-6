@@ -1,0 +1,11 @@
+Connections:
+
+    HC-SR04:
+        Trigger Pin to Pin 7
+        Echo Pin to Pin 8
+        VCC to 5V (or 3.3V depending on your servo)
+        GND to GND
+    SG90 Servo:
+        Signal Pin to Pin 9 (PWM-capable pin)
+        VCC to 5V
+        GND to GND
